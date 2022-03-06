@@ -1,1 +1,1 @@
-Web URL : https://github.com/doggang/bulbOnOff.git
+Web URL : https://doggang.github.io/bulbOnOff/index.html
